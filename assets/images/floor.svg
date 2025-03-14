@@ -1,0 +1,19 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" fill="#8B7355"/>
+  <line x1="0" y1="0" x2="4" y2="4" stroke="#7A6348" stroke-width="1"/>
+  <line x1="8" y1="0" x2="12" y2="4" stroke="#7A6348" stroke-width="1"/>
+  <line x1="16" y1="0" x2="20" y2="4" stroke="#7A6348" stroke-width="1"/>
+  <line x1="24" y1="0" x2="28" y2="4" stroke="#7A6348" stroke-width="1"/>
+  <line x1="0" y1="8" x2="4" y2="12" stroke="#7A6348" stroke-width="1"/>
+  <line x1="8" y1="8" x2="12" y2="12" stroke="#7A6348" stroke-width="1"/>
+  <line x1="16" y1="8" x2="20" y2="12" stroke="#7A6348" stroke-width="1"/>
+  <line x1="24" y1="8" x2="28" y2="12" stroke="#7A6348" stroke-width="1"/>
+  <line x1="0" y1="16" x2="4" y2="20" stroke="#7A6348" stroke-width="1"/>
+  <line x1="8" y1="16" x2="12" y2="20" stroke="#7A6348" stroke-width="1"/>
+  <line x1="16" y1="16" x2="20" y2="20" stroke="#7A6348" stroke-width="1"/>
+  <line x1="24" y1="16" x2="28" y2="20" stroke="#7A6348" stroke-width="1"/>
+  <line x1="0" y1="24" x2="4" y2="28" stroke="#7A6348" stroke-width="1"/>
+  <line x1="8" y1="24" x2="12" y2="28" stroke="#7A6348" stroke-width="1"/>
+  <line x1="16" y1="24" x2="20" y2="28" stroke="#7A6348" stroke-width="1"/>
+  <line x1="24" y1="24" x2="28" y2="28" stroke="#7A6348" stroke-width="1"/>
+</svg>

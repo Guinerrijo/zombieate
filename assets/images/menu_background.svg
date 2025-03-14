@@ -1,0 +1,73 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#000033"/>
+  
+  <!-- Cementerio -->
+  <rect x="50" y="400" width="30" height="50" fill="#808080"/>
+  <rect x="45" y="390" width="40" height="10" fill="#A9A9A9"/>
+  <rect x="130" y="400" width="30" height="50" fill="#808080"/>
+  <rect x="125" y="390" width="40" height="10" fill="#A9A9A9"/>
+  <rect x="210" y="400" width="30" height="50" fill="#808080"/>
+  <rect x="205" y="390" width="40" height="10" fill="#A9A9A9"/>
+  <rect x="290" y="400" width="30" height="50" fill="#808080"/>
+  <rect x="285" y="390" width="40" height="10" fill="#A9A9A9"/>
+  <rect x="370" y="400" width="30" height="50" fill="#808080"/>
+  <rect x="365" y="390" width="40" height="10" fill="#A9A9A9"/>
+  <rect x="450" y="400" width="30" height="50" fill="#808080"/>
+  <rect x="445" y="390" width="40" height="10" fill="#A9A9A9"/>
+  <rect x="530" y="400" width="30" height="50" fill="#808080"/>
+  <rect x="525" y="390" width="40" height="10" fill="#A9A9A9"/>
+  <rect x="610" y="400" width="30" height="50" fill="#808080"/>
+  <rect x="605" y="390" width="40" height="10" fill="#A9A9A9"/>
+  <rect x="690" y="400" width="30" height="50" fill="#808080"/>
+  <rect x="685" y="390" width="40" height="10" fill="#A9A9A9"/>
+  <rect x="770" y="400" width="30" height="50" fill="#808080"/>
+  <rect x="765" y="390" width="40" height="10" fill="#A9A9A9"/>
+  
+  <!-- Luna -->
+  <circle cx="650" cy="100" r="40" fill="#FFFACD"/>
+  <circle cx="630" cy="90" r="10" fill="#000033"/>
+  
+  <!-- Nubes oscuras -->
+  <circle cx="100" cy="150" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="130" cy="150" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="160" cy="150" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="250" cy="180" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="280" cy="180" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="310" cy="180" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="400" cy="150" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="430" cy="150" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="460" cy="150" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="550" cy="180" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="580" cy="180" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="610" cy="180" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="700" cy="150" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="730" cy="150" r="25" fill="#483D8B" opacity="0.7"/>
+  <circle cx="760" cy="150" r="25" fill="#483D8B" opacity="0.7"/>
+  
+  <!-- Casa embrujada -->
+  <rect x="300" y="250" width="200" height="150" fill="#8B4513"/>
+  <polygon points="300,250 500,250 400,180" fill="#A52A2A"/>
+  <rect x="330" y="280" width="40" height="40" fill="#FFD700"/>
+  <rect x="430" y="280" width="40" height="40" fill="#FFD700"/>
+  <line x1="350" y1="280" x2="350" y2="320" stroke="black" stroke-width="2"/>
+  <line x1="330" y1="300" x2="370" y2="300" stroke="black" stroke-width="2"/>
+  <line x1="450" y1="280" x2="450" y2="320" stroke="black" stroke-width="2"/>
+  <line x1="430" y1="300" x2="470" y2="300" stroke="black" stroke-width="2"/>
+  <rect x="380" y="330" width="40" height="70" fill="#8B0000"/>
+  
+  <!-- Zombies en silueta -->
+  <rect x="100" y="500" width="20" height="30" fill="black" opacity="0.8"/>
+  <circle cx="110" cy="490" r="10" fill="black" opacity="0.8"/>
+  <rect x="90" y="505" width="10" height="5" fill="black" opacity="0.8"/>
+  <rect x="120" y="505" width="10" height="5" fill="black" opacity="0.8"/>
+  
+  <rect x="350" y="500" width="20" height="30" fill="black" opacity="0.8"/>
+  <circle cx="360" cy="490" r="10" fill="black" opacity="0.8"/>
+  <rect x="340" y="505" width="10" height="5" fill="black" opacity="0.8"/>
+  <rect x="370" y="505" width="10" height="5" fill="black" opacity="0.8"/>
+  
+  <rect x="600" y="500" width="20" height="30" fill="black" opacity="0.8"/>
+  <circle cx="610" cy="490" r="10" fill="black" opacity="0.8"/>
+  <rect x="590" y="505" width="10" height="5" fill="black" opacity="0.8"/>
+  <rect x="620" y="505" width="10" height="5" fill="black" opacity="0.8"/>
+</svg>
